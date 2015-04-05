@@ -2,11 +2,11 @@
 /* write your CSS here */
 body#topcolor {
     background:#000000;
-    background-image: url("https://www.dropbox.com/s/jk9rl41p5a0cbth/art.jpg?dl=0");
+    background-image: url("https://www.dropbox.com/s/v2q4x8upjhjejke/art1.jpg?dl=0");
     background-repeat: no-repeat;
 }
 h1 {
-    color: black;
+    color: white;
     font-family: droid serif;
     font-variant: small-caps;
     text-align: center;
