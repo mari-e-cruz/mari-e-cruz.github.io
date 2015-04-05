@@ -2,8 +2,6 @@
 /* write your CSS here */
 body#topcolor {
     background:#000000;
-    background-image: url("http://s3.amazonaws.com/fotor.cdn/share.url/06d0194b0352422380cd341cc0cf56a3.jpeg");
-    background-repeat: no-repeat;
 }
 h1 {
     color: white;
@@ -17,8 +15,10 @@ h1 {
     overflow: auto;
 }
 div.image {
-    width: 960px;
-    margin: auto;
+    background-image: url('http://s3.amazonaws.com/fotor.cdn/share.url/06d0194b0352422380cd341cc0cf56a3.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
 }
 h2 {
     font-variant: small-caps;
