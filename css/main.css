@@ -23,12 +23,6 @@ h1.transbox1 {
 #parent {
     overflow: auto;
 }
-body.image {
-    position: relative;
-    top:5px;
-    left: 210px;
-    
-}
 
 h2 {
     font-variant: small-caps;
