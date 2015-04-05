@@ -13,12 +13,6 @@ h1 {
     text-decoration: underline;
     font-size: 36px;
 }
-h1.transbox1 {
-    margin: 30px;
-    background-color: #ffffff;
-    border: 1px solid #000000;
-    opacity: 0.6;
-    filter: alpha(opacity=60); /* For IE8 and earlier */
 }
 #parent {
     overflow: auto;
