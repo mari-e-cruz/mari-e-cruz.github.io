@@ -1,8 +1,8 @@
 
 /* write your CSS here */
 body#topcolor {
-    background:gray;
-    background-image: url("http://pixabay.com/static/uploads/photo/2015/03/31/22/25/art-701682_640.jpg");
+    background:#000000;
+    background-image: url("https://www.dropbox.com/s/k82vt89te7do7zn/art-701682_1920.png?dl=0");
 }
 h1 {
     color: crimson;
