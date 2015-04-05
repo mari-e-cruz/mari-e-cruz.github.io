@@ -13,11 +13,13 @@ h1 {
     text-decoration: underline;
     font-size: 36px;
 }
-}
 #parent {
     overflow: auto;
 }
-
+div.image {
+    width: 960px;
+    margin: auto;
+}
 h2 {
     font-variant: small-caps;
     font-size: 25px
